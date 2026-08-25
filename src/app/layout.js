@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "SoCart",
+  title: "Mahli",
   description: "E-Commerce Site",
 };
 
