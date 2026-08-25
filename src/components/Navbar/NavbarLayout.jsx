@@ -29,7 +29,7 @@ export default function NavbarLayout({ cartData }) {
                 <div className="brand">
                     <Link onClick={() => { setMenuIsOpen(false) }} className='flex items-center gap-1' href={'/'}>
                         <span className='bg-linear-to-r from-indigo-800 to-purple-800 p-1.5 text-white rounded-md text-xl font-medium me-0.5 mb-1'><FaOpencart /></span>
-                        <span className='text-2xl font-bold text-black italic'>Mahli</span>
+                        <span className='text-2xl font-bold text-black italic'>Ma7li</span>
                     </Link>
                 </div>
                 {/* nav links */}
