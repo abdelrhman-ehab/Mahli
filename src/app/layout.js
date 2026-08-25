@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Ma7li",
+  title: "Ma7ly-Store",
   description: "E-Commerce Site",
 };
 
